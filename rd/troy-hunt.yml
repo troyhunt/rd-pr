@@ -32,8 +32,8 @@ remarks: |
   outsourcing vendors across the globe. For more corporatey background, there's
   always my [LinkedIn profile](https://www.linkedin.com/in/troyhunt).
   
-  One of the key projects I'm involved in today is [Have I been
-  pwned?](https://haveibeenpwned.com/) (HIBP), a free service that aggregates
+  One of the key projects I'm involved in today is [Have I Been
+  Pwned](https://haveibeenpwned.com/) (HIBP), a free service that aggregates
   data breaches and helps people establish if they've been impacted by malicious
   activity on the web. As well as being a useful service for the community, HIBP
   has given me an avenue to ship code that runs at scale on Microsoft's Azure
@@ -65,7 +65,7 @@ remarks: |
   aforementioned “coffee budget”. It’s been highlighted by the world’s largest
   media outlets, reaching hundreds of millions of people, whilst regularly being
   showcased as a “how to” of modern cloud architecture.
-tagline: Coffee / Fitness
+tagline: Security, Data Breaches, Cloud
 image:
   alt: "Troy Hunt"
   src: media/profiles/troy-hunt.jpg
